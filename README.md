@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/vasanthadabala" target="blank"><img src="https://img.shields.io/twitter/follow/vasanthadabala?logo=twitter&style=for-the-badge" alt="vasanthadabala" /></a> </p>
 
-- 💬 Ask me about **Kotlin,Javascript,React,Python,C++**
+- 💬 Ask me about **Android,Kotlin,Javascript,ReactNative**
 
 - 📫 How to reach me **vasanthadabala@gmail.com**
 
