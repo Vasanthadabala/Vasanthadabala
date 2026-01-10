@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/vasanthadabala" target="blank"><img src="https://img.shields.io/twitter/follow/vasanthadabala?logo=twitter&style=for-the-badge" alt="vasanthadabala" /></a> </p>
 
-- 💬 Ask me about **Android, Ios, React-Native**
+- 💬 Ask me about **Android, iOS, React-Native**
 
 - 📫 How to reach me **vasanthadabala@gmail.com**
 
